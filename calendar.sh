@@ -5,4 +5,4 @@ d=$2;
 y=$3;
 
 
-echo $m/$d/$y;
+echo $d/$m/$y;
